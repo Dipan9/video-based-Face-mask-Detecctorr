@@ -1,1 +1,1 @@
-# video-based-Face-mask-Detecctorr
+# video-based-Face-mask-Detecctor
